@@ -10,10 +10,8 @@ Projetos e atividades da minha graduação em **Análise e Desenvolvimento de Si
 
 | Caminho | Descrição |
 |--------|-----------|
-| [academico/analise-e-desenvolvimento-de-sistemas](./academico/analise-e-desenvolvimento-de-sistemas) | Trabalhos diversos da faculdade. |
-| [academico/seminarios](./academico/seminarios) | Slides, roteiros e pesquisas para apresentações acadêmicas. |
-| [academico/banco-de-dados](./academico/banco-de-dados) | Scripts SQL, modelagem de dados e exercícios práticos. |
-| [academico/programacao-python](./academico/programacao-python) | Códigos, desafios e mini-projetos usando Python. |
+| [academico/analise-e-desenvolvimento-de-sistemas-Trabalho Locadora de Veículos]((https://sites.google.com/view/driveuplocadora/p%C3%A1gina-inicial)) | Trabalhos diversos da faculdade. |
+| 
 
 ---
 
