@@ -1,38 +1,45 @@
-# 👨‍💻 Repositório Central – Marcos André
+# üë®‚Äçüíª Reposit√≥rio Central ‚Äì Marcos Andr√©
 
-Bem-vindo(a) ao meu repositório principal! Aqui você encontra uma visão geral da minha organização no GitHub, separada em três grandes áreas: **Acadêmico**, **Pessoal** e **Documentação**.
-
----
-
-## 📚 Acadêmico
-
-Projetos e atividades desenvolvidos ao longo da minha graduação em **Análise e Desenvolvimento de Sistemas**.
-
-| Repositório | Descrição |
-|-------------|-----------|
-| [analise-e-desenvolvimento-de-sistemas](https://github.com/marcosandre/analise-e-desenvolvimento-de-sistemas) | Trabalhos diversos da faculdade. |
-| [seminarios](https://github.com/marcosandre/seminarios) | Slides, roteiros e pesquisas para apresentações acadêmicas. |
-| [banco-de-dados](https://github.com/marcosandre/banco-de-dados) | Scripts SQL, modelagem de dados e exercícios práticos. |
-| [programacao-python](https://github.com/marcosandre/programacao-python) | Códigos, desafios e mini-projetos usando Python. |
+Bem-vindo(a) ao meu reposit√≥rio principal! Aqui voc√™ encontra uma vis√£o geral da minha organiza√ß√£o de projetos, estudos e documenta√ß√£o dentro deste reposit√≥rio √∫nico.
 
 ---
 
-## 🧪 Pessoal
+## üìö Acad√™mico
 
-Projetos desenvolvidos por interesse próprio e para fins de portfólio e aprendizado.
+Projetos e atividades da minha gradua√ß√£o em **An√°lise e Desenvolvimento de Sistemas**.
 
-| Repositório | Descrição |
-|-------------|-----------|
-| [programa-de-media-de-notas](https://github.com/marcosandre/programa-de-media-de-notas) | Programa simples para cálculo da média escolar. |
-| [site-demostrativo](https://github.com/marcosandre/site-demostrativo) | Página de exemplo para demonstração de HTML, CSS e JS. |
-| [bot-discord](https://github.com/marcosandre/bot-discord) | Bot para Discord com comandos personalizados. |
+| Caminho | Descri√ß√£o |
+|--------|-----------|
+| [academico/analise-e-desenvolvimento-de-sistemas](./academico/analise-e-desenvolvimento-de-sistemas) | Trabalhos diversos da faculdade. |
+| [academico/seminarios](./academico/seminarios) | Slides, roteiros e pesquisas para apresenta√ß√µes acad√™micas. |
+| [academico/banco-de-dados](./academico/banco-de-dados) | Scripts SQL, modelagem de dados e exerc√≠cios pr√°ticos. |
+| [academico/programacao-python](./academico/programacao-python) | C√≥digos, desafios e mini-projetos usando Python. |
 
 ---
 
-## 📄 Documentação
+## üß™ Pessoal
 
-Anotações, resumos e modelos úteis relacionados a ferramentas e metodologias de desenvolvimento.
+Projetos desenvolvidos por interesse pr√≥prio e para fins de portf√≥lio e aprendizado.
 
-| Repositório | Descrição |
-|-------------|-----------|
-| [git-e-github](https://github.com/marcosandre/git-e-github) | Dicas
+| Caminho | Descri√ß√£o |
+|--------|-----------|
+| [pessoal/programa-de-media-de-notas](./pessoal/programa-de-media-de-notas) | Programa simples para c√°lculo da m√©dia escolar. |
+| [pessoal/site-demostrativo](./pessoal/site-demostrativo) | P√°gina de exemplo para demonstra√ß√£o de HTML, CSS e JS. |
+| [pessoal/bot-discord](./pessoal/bot-discord) | Bot para Discord com comandos personalizados. |
+
+---
+
+## üìÑ Documenta√ß√£o
+
+Anota√ß√µes, resumos e modelos √∫teis relacionados a ferramentas e metodologias de desenvolvimento.
+
+| Caminho | Descri√ß√£o |
+|--------|-----------|
+| [documentacao/git-e-github](./documentacao/git-e-github) | Dicas e comandos √∫teis sobre Git e GitHub. |
+| [documentacao/guia-scrum](./documentacao/guia-scrum) | Resumo do Guia Scrum 2020, voltado para projetos de software. |
+| [documentacao/modelos](./documentacao/modelos) | Templates reutiliz√°veis de README, licen√ßas, etc. |
+
+---
+
+> ‚ú® Explore as pastas e conte√∫dos conforme a se√ß√£o desejada. Tudo est√° centralizado aqui!
+![image](https://github.com/user-attachments/assets/4197f602-ee8b-4856-b7c7-b0b573ced8c1)
